@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from 'react';
+import React, { useMemo } from 'react';
 import ProductCard from './ProductCard';
 import SkeletonLoader from './SkeletonLoader';
 import SortingDropdown from './SortingDropdown';
